@@ -1,0 +1,132 @@
+body {
+    background-color: rgb(177, 237, 245);
+}
+
+nav{
+    text-align: center;
+    background-color: rgb(98, 185, 243);
+    height: 60px;
+    
+}
+nav a{
+    padding: 10px;
+    border: 2px solid rgb(155, 143, 221);
+    border-radius: 12px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: rgb(203, 235, 236);
+
+   
+}
+nav a:hover{
+    background-color: rgb(37, 47, 197);
+}
+.date{
+    text-align: right;
+    color: cadetblue;
+    text-transform: uppercase;
+    font-family: "Times New Roman", Times, serif;
+}
+.main-container h3 {
+    font-size: 50px;
+    color:black;
+    font-weight: 400;
+    text-align: center;
+
+}
+.main-container p {
+    font-size: 20px;
+    color:black;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+footer {
+    position: fixed;
+    text-align: center;
+    background-color:rgb(98, 185, 243);
+    color:rgb(142, 36, 204);
+    width: 100%;
+    bottom: 0;
+
+}
+
+.titlu {
+    font-size: 80px;
+    color: pink;
+    text-align: center;
+    text-shadow: 2px 2px 3px black, 0 0 25px rgb(238, 133, 206), 0 0 5px rgb(151, 18, 111);
+    
+    
+    
+}
+.despre-text h2 {
+    font-size: 50px;
+    color:pink;
+    font-weight: 400;
+    text-align: center;
+    text-shadow: 2px 2px 3px black, 0 0 25px rgb(238, 133, 206), 0 0 5px rgb(151, 18, 111);
+
+}
+.despre-text p {
+    font-size: 20px;
+    color:black;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    border-style: ridge;
+    border-color: pink;
+    padding: 10px;
+    font-style: oblique;
+}
+.scotiaimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    height: 50%;
+
+}
+.container1 h3 {
+    font-size: 50px;
+    color:rgb(90, 85, 85);
+    font-weight: 400;
+    text-align: center;
+    text-shadow: 2px 2px 3px white, 0 0 25px blue, 0 0 5px darkblue;
+
+}
+.container1 p {
+    font-size: 20px;
+    color:black;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    border-style: ridge;
+    border-color: rgb(70, 8, 99);
+    padding:10px;
+    font-style: oblique;
+}
+.container2 {
+    border-style: outset;
+    border-color: rgb(70, 8, 99);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    padding: 10px;
+    width: 40%;
+    text-align: center;
+}
+.container2 a {
+    font-size: 20px;
+}
+.container2 p {
+    font-size: 20px;
+    padding: 0px;
+    margin: 0px;
+    font-style: oblique;
+
+}
+
+
